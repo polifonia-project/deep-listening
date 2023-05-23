@@ -14,6 +14,8 @@ contributors:
 - Paul Mulholland <https://github.com/paulmulholland>
 - Enrico Daga <https://github.com/enridaga>
 - Jason Carvalho <https://github.com/JaseMK>
+bibliography:
+- publication: "Paul Mulholland, Adam Stoneman, Naomi Barker, Mark Maguire, Jason Carvalho, Enrico Daga, and Paul Warren. 2023. The Sound of Paintings: Using Citizen Curation to Explore the Cross-Modal Personalization of Mu- seum Experiences. In UMAP ’23 Adjunct: Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP ’23 Adjunct), June 26–29, 2023, Limassol, Cyprus. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3563359.3596662"
 --- 
 
 # Deep Listening
