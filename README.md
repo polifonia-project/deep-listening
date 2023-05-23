@@ -6,6 +6,16 @@ type: User interface
 work-package:
 - WP5
 project: polifonia-project
+resource: https://github.com/spice-h2020/imma-slow-looking
+demo: https://spice.kmi.open.ac.uk/demos/imma-slow-looking
+licence:
+- CC-BY_v4
+contributors:
+- Paul Mulholland <https://github.com/paulmulholland>
+- Enrico Daga <https://github.com/enridaga>
+- Jason Carvalho <https://github.com/JaseMK>
+bibliography:
+- publication: Paul Mulholland, Adam Stoneman, Naomi Barker, Mark Maguire, Jason Carvalho, Enrico Daga, and Paul Warren. 2023. The Sound of Paintings: Using Citizen Curation to Explore the Cross-Modal Personalization of Mu- seum Experiences. In UMAP ’23 Adjunct: Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP ’23 Adjunct), June 26–29, 2023, Limassol, Cyprus. ACM, New York, NY, USA, 11 pages. 
 --- 
 
 # Deep Listening
