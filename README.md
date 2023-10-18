@@ -2,7 +2,7 @@
 component-id: deep-listening
 name: Deep Listening
 description: Software, methods and user studies exploring the cross-modal interpretation of music and visual art 
-type: User interface
+type: UserInterface
 work-package:
 - WP5
 project: polifonia-project
