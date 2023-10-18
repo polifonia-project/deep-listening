@@ -11,6 +11,11 @@ resource: https://github.com/spice-h2020/imma-slow-looking
 demo: https://spice.kmi.open.ac.uk/demos/imma-slow-looking/home
 licence:
 - CC-BY_v4
+related-components:
+- story:
+  - Paul#1_OrganComparison
+- persona:
+  - Paul_Organ_Advisor
 contributors:
 - Paul Mulholland <https://github.com/paulmulholland>
 - Enrico Daga <https://github.com/enridaga>
