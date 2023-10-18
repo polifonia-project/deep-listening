@@ -8,7 +8,7 @@ work-package:
 - WP5
 project: polifonia-project
 resource: https://github.com/spice-h2020/imma-slow-looking
-demo: https://spice.kmi.open.ac.uk/demos/imma-slow-looking
+demo: https://spice.kmi.open.ac.uk/demos/imma-slow-looking/home
 licence:
 - CC-BY_v4
 contributors:
