@@ -4,6 +4,7 @@ name: Deep Listening
 description: Software, methods and user studies exploring the cross-modal interpretation of music and visual art 
 type: UserInterface
 work-package:
+- WP1
 - WP5
 project: polifonia-project
 resource: https://github.com/spice-h2020/imma-slow-looking
